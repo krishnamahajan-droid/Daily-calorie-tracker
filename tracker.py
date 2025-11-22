@@ -106,3 +106,5 @@ if save_choice.lower() == "yes":
     print("✅ Report saved successfully as 'calorie_report.txt'!")
 else:
     print("❌ Report not saved.")
+    print("\nThank you for using the Daily Calorie Tracker! Stay healthy 😊")
+

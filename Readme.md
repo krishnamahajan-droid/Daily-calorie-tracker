@@ -22,6 +22,15 @@ The user enters each meal and its calories, and at the end the program shows the
 - Simple and easy to use for beginners
 
 ---
+### 🧾 Feature Summary Table
+
+| Feature | Status |
+|--------|--------|
+| Add meals | ✔ |
+| Calculate total calories | ✔ |
+| Show summary output | ✔ |
+| Save report to file | ✔ |
+
 
 ## 🧰 Technologies Used
 
