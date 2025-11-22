@@ -1,0 +1,9 @@
+=== DAILY CALORIE REPORT ===
+breakfast	160.0
+lunch	300.0
+dinner	600.0
+-----------------------------------
+Total: 1060.0
+Average: 353.33
+Status: ✅ Great job! You are within your daily calorie limit.
+===================================
