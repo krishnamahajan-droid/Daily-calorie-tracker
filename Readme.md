@@ -49,4 +49,9 @@ python tracker.py
 - Store data for **multiple days** and show weekly/monthly reports  
 - Build a **GUI (graphical user interface)** using Tkinter or a web framework  
 - Add warnings when calories exceed a healthy limit
+## 📸 Screenshots
+
+| Input Stage | Summary Output |
+|-------------|----------------|
+| ![Input Screenshot](screensho1.png) | ![Output Screenshot](screenshot2.png) |
 
